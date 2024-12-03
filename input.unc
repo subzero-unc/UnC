@@ -1,0 +1,12 @@
+namespace Main {
+    act main() {
+        let age = input("What is your age? ");
+        prnt("Your age is " + age + ".");
+
+        let name = input("What is your name? ");
+        prnt("Hello, " + name + "!");
+
+        dly(2);
+        prnt("Goodbye!");
+    }
+}

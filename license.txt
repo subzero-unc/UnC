@@ -1,0 +1,31 @@
+UnC++ License
+1. Definitions
+1.1. "Software" refers to the UnC++ programming language, including its compiler, interpreter, syntax, documentation, and associated tools.
+
+1.2. "Contributor" refers to any individual or entity who contributes to the Software.
+
+2. Permission
+You are permitted to:
+
+Use the Software for personal, educational, or non-commercial purposes.
+Modify the Software or create derivative works, provided they are made publicly available under this license.
+Share the Software or your modifications freely with proper attribution to the original creators.
+3. Restrictions
+You are not permitted to:
+
+Use the Software or derivative works for any commercial purpose without explicit written permission from the original creator.
+Use the Software or derivative works for the development or deployment of malware, viruses, or any malicious code.
+Remove or alter any copyright notices or licensing terms associated with the Software.
+4. Contributions
+4.1. By contributing to the Software, you agree that your contributions are licensed under the same terms as this license.
+
+4.2. Contributions must not contain malicious, harmful, or illegal code.
+
+5. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Enforcement
+Violation of this license may result in revocation of rights to use, modify, or distribute the Software.
+
+7. Attribution
+When sharing or using the Software, credit the original creators as follows: "UnC++ programming language originally created by subzero."
